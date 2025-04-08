@@ -41,14 +41,6 @@ const products = [
         image: "https://images.unsplash.com/photo-1518977676601-b53f82aba655?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
-        id: 6,
-        name: "Greek Yogurt",
-        category: "dairy",
-        price: 4.49,
-        description: "Creamy and protein-rich yogurt",
-        image: "https://images.unsplash.com/photo-1577043552439-4e5b0e5b3025?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-    },
-    {
         id: 7,
         name: "Fresh Strawberries",
         category: "fruits",
